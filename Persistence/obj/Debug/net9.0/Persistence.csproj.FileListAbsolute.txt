@@ -1,0 +1,15 @@
+/home/querzion/RiderProjects/slisk.lindqvist-yh.webut.uppgift.006/Backends/BookingService/Persistence/bin/Debug/net9.0/Persistence.deps.json
+/home/querzion/RiderProjects/slisk.lindqvist-yh.webut.uppgift.006/Backends/BookingService/Persistence/bin/Debug/net9.0/Persistence.runtimeconfig.json
+/home/querzion/RiderProjects/slisk.lindqvist-yh.webut.uppgift.006/Backends/BookingService/Persistence/bin/Debug/net9.0/Persistence.dll
+/home/querzion/RiderProjects/slisk.lindqvist-yh.webut.uppgift.006/Backends/BookingService/Persistence/bin/Debug/net9.0/Persistence.pdb
+/home/querzion/RiderProjects/slisk.lindqvist-yh.webut.uppgift.006/Backends/BookingService/Persistence/obj/Debug/net9.0/Persistence.csproj.AssemblyReference.cache
+/home/querzion/RiderProjects/slisk.lindqvist-yh.webut.uppgift.006/Backends/BookingService/Persistence/obj/Debug/net9.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/querzion/RiderProjects/slisk.lindqvist-yh.webut.uppgift.006/Backends/BookingService/Persistence/obj/Debug/net9.0/Persistence.AssemblyInfoInputs.cache
+/home/querzion/RiderProjects/slisk.lindqvist-yh.webut.uppgift.006/Backends/BookingService/Persistence/obj/Debug/net9.0/Persistence.AssemblyInfo.cs
+/home/querzion/RiderProjects/slisk.lindqvist-yh.webut.uppgift.006/Backends/BookingService/Persistence/obj/Debug/net9.0/Persistence.csproj.CoreCompileInputs.cache
+/home/querzion/RiderProjects/slisk.lindqvist-yh.webut.uppgift.006/Backends/BookingService/Persistence/obj/Debug/net9.0/Persistence.sourcelink.json
+/home/querzion/RiderProjects/slisk.lindqvist-yh.webut.uppgift.006/Backends/BookingService/Persistence/obj/Debug/net9.0/Persistence.dll
+/home/querzion/RiderProjects/slisk.lindqvist-yh.webut.uppgift.006/Backends/BookingService/Persistence/obj/Debug/net9.0/refint/Persistence.dll
+/home/querzion/RiderProjects/slisk.lindqvist-yh.webut.uppgift.006/Backends/BookingService/Persistence/obj/Debug/net9.0/Persistence.pdb
+/home/querzion/RiderProjects/slisk.lindqvist-yh.webut.uppgift.006/Backends/BookingService/Persistence/obj/Debug/net9.0/Persistence.genruntimeconfig.cache
+/home/querzion/RiderProjects/slisk.lindqvist-yh.webut.uppgift.006/Backends/BookingService/Persistence/obj/Debug/net9.0/ref/Persistence.dll
